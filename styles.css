@@ -1,0 +1,121 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  li{
+    display: inline;
+  }
+  
+  .navbar a{
+    float: left;
+    display: block;
+    color: blue;
+    text-align: center;
+    padding: left;
+  }
+  
+  body{
+    font-family: sans-serif;
+  }
+  span{
+    font-size: 50px;
+  }
+  
+  body{
+    text-align: center;
+  }
+  
+  input{
+    width: 40vw;
+    height: 9vh;
+    border-radius: 45px 44px 44px 44px;
+    font-size: 34px;
+  }
+  
+  button{
+    height: 5vh;
+    background: white;
+    border: white 1px solid;
+    text-align: center;
+    border-radius: 9px 
+  }
+  
+  a{
+    color: blue;
+  }
+  
+  googleHome{
+    margin-top: 15vh;
+  }
+  */
+  
+  .header{
+    font-size:13px;
+    text-align: right;
+    padding-top: 22px;
+    padding-right: 10px
+  }
+  
+  .menuItems{
+    font-size: 13px;
+    padding-right: 10px;
+    padding-left: 20px;
+    display: inline-block;
+  }
+  
+  .header a{
+    text-decoration: none;
+    color: black;
+  }
+  
+  .header a:hover{
+    text-decoration: underline;
+  }
+  
+  .menu{
+    background-color: white;
+    border: 1px solid black;
+  }
+  
+  .container{
+    padding-top: 140px;
+    padding-bottom: 160px;
+  }
+  
+  .search{
+    font-size: 13px;
+    margin: auto;
+    margin-top: 30px
+    padding: 13px;
+    width: 150px;
+    color: gray;
+    border: 1px solid gray;
+    border-radius: 21px;
+    outline: none;
+  }
+  
+  .input{
+    text-align: left;
+    width: 85%;
+    border: none;
+    outline: none;
+  }
+  
+  li a {
+    display: block;
+    color: gray;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    color: white;
+    text-align: left;
+  
